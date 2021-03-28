@@ -1,8 +1,6 @@
 # IScaler-DRL
 The repository contains the code for implementing and evaluating the Deep Q-Network for IScaler. The original paper is: [AI-based Resource Provisioning of IoE Services in 6G: A Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/document/9380677). This paper was published in IEEETransaction on Network and Service Management (DOI: 10.1109/TNSM.2021.3066625).
 
-# Usage
-
 ## Requirements
 Install Jupyter Notebook and the required python packages.
 
